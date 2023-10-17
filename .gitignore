@@ -1,0 +1,5 @@
+# Local pycache file
+__pycache__
+
+# Venv folder
+python-docker-env
